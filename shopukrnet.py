@@ -10,5 +10,5 @@ result_bananas = (banana_cost*bananas)
 print("bananas costs:", result_bananas)
 result_oranges = (orange_cost*orange)
 print("oranges costs:", result_oranges)
-result = result_apples + result_bananas + result_oranges#
+result = result_apples + result_bananas + result_oranges
 print("all costs:",result)

@@ -1,0 +1,8 @@
+name = input("What your name?")
+print(name, "hello")
+country = input("Where are you from?")
+print(country, "is beautiful" )
+input("How old are you?")
+color = input("What color your eyes?")
+print(color, "it is beautful color!")
+print("Thanks, good bye!")
